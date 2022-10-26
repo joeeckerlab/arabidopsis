@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arabidopsis/static/css/main.073c9b0a.css",
+    "main.js": "/arabidopsis/static/js/main.6cd5dc10.js",
+    "static/js/787.884baf54.chunk.js": "/arabidopsis/static/js/787.884baf54.chunk.js",
+    "index.html": "/arabidopsis/index.html",
+    "main.073c9b0a.css.map": "/arabidopsis/static/css/main.073c9b0a.css.map",
+    "main.6cd5dc10.js.map": "/arabidopsis/static/js/main.6cd5dc10.js.map",
+    "787.884baf54.chunk.js.map": "/arabidopsis/static/js/787.884baf54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6cd5dc10.js"
+  ]
+}
