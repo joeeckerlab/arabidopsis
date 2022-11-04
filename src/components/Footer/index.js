@@ -15,8 +15,8 @@ const Footer = () => {
           <FooterLinkWrapper>
             <FooterLinkItems>
               <FooterLinkTitle>About us</FooterLinkTitle>
-                <FooterLink to='/'>Research</FooterLink>
-                <FooterLink to='/'>People</FooterLink>
+                <FooterLink to={`/${'https://ecker.salk.edu/research/'}`}>Research</FooterLink>
+                <FooterLink to='https://ecker.salk.edu/people/'>People</FooterLink>
             </FooterLinkItems>
             <FooterLinkItems>
               <FooterLinkTitle>Contact Us</FooterLinkTitle>

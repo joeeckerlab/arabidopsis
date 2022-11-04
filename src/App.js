@@ -13,9 +13,9 @@ const App = () => {
         //     <Dashboard />
         // </Router>
         //
-        <BrowserRouter basename={process.env.PUBLIC_URL}>
+        <BrowserRouter basename={`/${process.env.PUBLIC_URL}`}>
             <Routes>
-                <Route path='/' element={<Home />} exact />
+                <Route path='' element={<Home />} exact />
                 <Route path='/signin' element={<SignIn />} exact />
             </Routes>
         </BrowserRouter>
