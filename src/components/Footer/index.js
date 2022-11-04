@@ -15,13 +15,13 @@ const Footer = () => {
           <FooterLinkWrapper>
             <FooterLinkItems>
               <FooterLinkTitle>About us</FooterLinkTitle>
-                <FooterLink to={`/${'https://ecker.salk.edu/research/'}`}>Research</FooterLink>
-                <FooterLink to='https://ecker.salk.edu/people/'>People</FooterLink>
+                <FooterLink href="https://ecker.salk.edu/research/">Research</FooterLink>
+                <FooterLink href="https://ecker.salk.edu/people/">People</FooterLink>
             </FooterLinkItems>
             <FooterLinkItems>
               <FooterLinkTitle>Contact Us</FooterLinkTitle>
-                <FooterLink to='/'>Contact</FooterLink>
-                <FooterLink to='/'>Support</FooterLink>
+                <FooterLink href="https://ecker.salk.edu/contact/">Contact</FooterLink>
+                <FooterLink href="https://ecker.salk.edu/links/">Support</FooterLink>
             </FooterLinkItems>
           </FooterLinkWrapper>
         </FooterLinkContainer>
