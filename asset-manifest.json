@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/arabidopsis/static/css/main.d7da34c1.css",
-    "main.js": "/arabidopsis/static/js/main.19590a2c.js",
+    "main.css": "/arabidopsis/static/css/main.9b8091b9.css",
+    "main.js": "/arabidopsis/static/js/main.feb56048.js",
     "static/media/video2.mp4": "/arabidopsis/static/media/video2.5a81e156290cf8c02e6e.mp4",
     "static/media/svg-1.svg": "/arabidopsis/static/media/svg-1.198c883546a77ed301550e05e51d4c28.svg",
     "static/media/svg-2.svg": "/arabidopsis/static/media/svg-2.b8e417785e2f2402ede1cb79a71f5e6f.svg",
     "static/media/svg-3.svg": "/arabidopsis/static/media/svg-3.d274da2e866711177649f5d8d64265c1.svg",
     "index.html": "/arabidopsis/index.html",
-    "main.d7da34c1.css.map": "/arabidopsis/static/css/main.d7da34c1.css.map",
-    "main.19590a2c.js.map": "/arabidopsis/static/js/main.19590a2c.js.map"
+    "main.9b8091b9.css.map": "/arabidopsis/static/css/main.9b8091b9.css.map",
+    "main.feb56048.js.map": "/arabidopsis/static/js/main.feb56048.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7da34c1.css",
-    "static/js/main.19590a2c.js"
+    "static/css/main.9b8091b9.css",
+    "static/js/main.feb56048.js"
   ]
 }
