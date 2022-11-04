@@ -9,7 +9,7 @@ const Services = () => {
     <ServicesContainer id='explore'>
       <ServicesH1>Explore Datasets</ServicesH1>
       <ServicesWrapper>
-        <ServicesCard to='/signin'>
+        <ServicesCard to='/dashboard'>
           <ServicesIcon src={Icon1}/>
           <ServicesH2>Cell Types</ServicesH2>
           <ServicesP>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </ServicesP>
