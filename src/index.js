@@ -5,7 +5,7 @@ import { ContextProvider } from './contexts/ContextProvider';
 
 ReactDOM.render(
     // <React.StrictMode>
-    <ContextProvider>
+    <ContextProvider basename={process.env.PUBLIC_URL}>
         <App />
     </ContextProvider>,
     // </React.StrictMode>,

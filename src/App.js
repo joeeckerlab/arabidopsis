@@ -13,7 +13,7 @@ const App = () => {
         //     <Dashboard />
         // </Router>
         //
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Routes>
                 <Route path='/' element={<Home />} exact />
                 <Route path='/signin' element={<SignIn />} exact />
