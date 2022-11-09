@@ -30,7 +30,7 @@ const Footer = () => {
             <SocialLogo to='/' onClick={toggleHome}>
               salk
             </SocialLogo>
-            <WebsiteRights>Jiaying Hsu © {new Date().getFullYear()} All rights reserved.</WebsiteRights>
+            <WebsiteRights>Jiaying Xu © {new Date().getFullYear()} All rights reserved.</WebsiteRights>
             <SocialIcons>
               <SocialIconLink href='//www.youtube.com/channel/UCF6Cz50AqAJcg6JC5LDRElg/videos?view_as=subscriber' target='_blank' arial-label='Youtube'>
                 <FaYoutube />

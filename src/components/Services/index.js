@@ -9,17 +9,17 @@ const Services = () => {
     <ServicesContainer id='explore'>
       <ServicesH1>Explore Datasets</ServicesH1>
       <ServicesWrapper>
-        <ServicesCard to='/dashboard'>
+        <ServicesCard href='https://joeeckerlab.github.io/dashboard/'>
           <ServicesIcon src={Icon1}/>
-          <ServicesH2>Cell Types</ServicesH2>
-          <ServicesP>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </ServicesP>
-        </ServicesCard>
-        <ServicesCard>
-        <ServicesIcon src={Icon2}/>
           <ServicesH2>Organs</ServicesH2>
           <ServicesP>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </ServicesP>
         </ServicesCard>
-        <ServicesCard>
+        <ServicesCard href="https://joeeckerlab.github.io/dashboard">
+        <ServicesIcon src={Icon2}/>
+          <ServicesH2>Cell Types</ServicesH2>
+          <ServicesP>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </ServicesP>
+        </ServicesCard>
+        <ServicesCard href="https://joeeckerlab.github.io/dashboard">
           <ServicesIcon src={Icon3}/>
           <ServicesH2>Merscope</ServicesH2>
           <ServicesP>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </ServicesP>

@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import {Link} from 'react-router-dom';
 
 export const ServicesContainer = styled.div`
   height: 800px;
@@ -35,7 +34,7 @@ export const ServicesWrapper = styled.div`
       padding: 0 20px;
   }
 `
-export const ServicesCard = styled(Link)`
+export const ServicesCard = styled.a`
  background: #fff;
  display: flex;
  flex-direction: column;
@@ -72,6 +71,7 @@ export const ServicesH1 = styled.h1`
 `
 export const ServicesH2 = styled.h2`
   font-size: 1rem;
+  font-weight: bold;
   margin-bottom: 10px;
 `
 
