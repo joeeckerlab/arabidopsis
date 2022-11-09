@@ -19,7 +19,7 @@ const Hero = () => {
         <HeroH1> Arabidopsis Cell Atlas</HeroH1>
         <HeroP>A single cell scRNA-seq browser of arabidopsis.</HeroP>
         <HeroBtnWrapper>
-          <Button to='signup' onMouseEnter={onHover} onMouseLeave={onHover} primary='true' dark='true'               smooth={true} duration={500} spy={true} exact='true' offset={-80}>
+          <Button to='about' onMouseEnter={onHover} onMouseLeave={onHover} primary='true' dark='true'               smooth={true} duration={500} spy={true} exact='true' offset={-80}>
             Get Started {hover ? <ArrowForward /> : <ArrowRight/>}
           </Button>
         </HeroBtnWrapper>
